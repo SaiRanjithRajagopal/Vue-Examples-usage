@@ -8,6 +8,8 @@ const routes = [
   { path: "/vhtml", name: "VHtml", component: () => import("../views/3_V_Html.vue"), },
   { path: "/vbind", name: "VBind", component: () => import("../views/4_V_Bind_Id.vue"), },
   { path: "/applycss", name: "ApplyCss", component: () => import("../views/5_Apply_Css.vue"), },
+  { path: "/bindstyle", name: "bindstyle", component: () => import("../views/6_BindingStyle.vue"), },
+  { path: "/ShortHandSyntax", name: "ShortHandSyntax", component: () => import("../views/6_BindingStyle.vue"), },
 ];
 
 const router = createRouter({

@@ -5,7 +5,8 @@
     <router-link to="/vtext">V-Text</router-link> |
     <router-link to="/vhtml">V-Html</router-link> |
     <router-link to="/vbind">V-Bind</router-link> |
-    <router-link to="/applycss">Apply Css</router-link>
+    <router-link to="/applycss">Apply Css</router-link> |
+    <router-link to="/bindstyle">Bind Style</router-link>
   </div>
   <router-view />
 </template>
