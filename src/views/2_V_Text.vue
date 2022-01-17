@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <p>V Text</p>
+    <p>v-text="name"</p>
     <VText />
   </div>
 </template>

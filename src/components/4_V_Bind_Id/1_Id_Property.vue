@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1 v-bind:id="cssId">{{ headerName }}</h1>
+    <hr />
     <Disabled />
   </div>
 </template>

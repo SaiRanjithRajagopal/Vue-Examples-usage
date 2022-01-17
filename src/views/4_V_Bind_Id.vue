@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>Bind_Id</p>
+    <p>v-bind:id="cssId"</p>
     <VBind />
   </div>
 </template>

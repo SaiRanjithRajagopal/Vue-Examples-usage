@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import ApplyCSS from "../components/5_Apply_Class_CSS/5_Class_Css.vue";
+import ApplyCSS from "../components/5_Apply_Class_CSS/1_Class_Css.vue";
 export default {
   name: "Router-ApplyCSS",
   components: {
