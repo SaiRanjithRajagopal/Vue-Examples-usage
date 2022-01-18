@@ -6,7 +6,12 @@
     <router-link to="/vhtml">V-Html</router-link> |
     <router-link to="/vbind">V-Bind</router-link> |
     <router-link to="/applycss">Apply Css</router-link> |
-    <router-link to="/bindstyle">Bind Style</router-link>
+    <router-link to="/bindstyle">Bind Style</router-link> |
+    <router-link to="/shorthandsyntax">ShortHand Syntax</router-link> |
+    <router-link to="/conditionalrendering">Conditional Rendering</router-link>
+    | <router-link to="/vfor">V For</router-link> |
+    <router-link to="/methods">Methods</router-link> |
+    <router-link to="/formhandle">Form Handle</router-link>
   </div>
   <router-view />
 </template>
